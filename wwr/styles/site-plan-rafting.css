@@ -6,10 +6,10 @@ Fonts are separated by a & */
 
 :root {
   /* change the values below to your colors from your palette */
-  --primary-color: #4392F1   ;
+  --primary-color: #42D9C8   ;
   --secondary-color: #42D9C8 ;
-  --accent1-color: #D6D6D6;
-  --accent2-color: white;
+  --accent1-color: #4392F1;
+  --accent2-color: #42D9C8;
 
   /* change the values below to your chosen font(s) */
   --heading-font: 'Roboto';
